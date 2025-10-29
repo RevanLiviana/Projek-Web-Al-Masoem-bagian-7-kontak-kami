@@ -1,0 +1,128 @@
+.dekstop {
+  background-color: #ffffff;
+  width: 100%;
+  min-width: 1920px;
+  min-height: 2904px;
+  position: relative;
+}
+
+.dekstop .rectangle {
+  position: absolute;
+  top: 2108px;
+  right: 0;
+  width: 1920px;
+  height: 796px;
+  background-color: #696766;
+}
+
+.dekstop .text-wrapper {
+  position: absolute;
+  top: 2229px;
+  left: 135px;
+  width: 660px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dekstop .jl-raya-cipacing-no {
+  position: absolute;
+  top: 2374px;
+  left: 135px;
+  width: 639px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dekstop .div {
+  position: absolute;
+  top: 2228px;
+  left: 1098px;
+  width: 533px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dekstop .informasi-fakultas {
+  position: absolute;
+  top: 2374px;
+  left: 1098px;
+  width: 573px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dekstop .p {
+  position: absolute;
+  top: 2844px;
+  left: 702px;
+  width: 553px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dekstop .line {
+  position: absolute;
+  top: 2806px;
+  left: 0;
+  width: 1920px;
+  height: 5px;
+  object-fit: cover;
+}
+
+.dekstop .text-wrapper-2 {
+  position: absolute;
+  top: 277px;
+  left: 190px;
+  width: 1090px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dekstop .jika-anda-memiliki {
+  position: absolute;
+  top: 545px;
+  left: 190px;
+  width: 1515px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.dekstop .span {
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+}
+
+.dekstop .text-wrapper-3 {
+  text-decoration: underline;
+}
